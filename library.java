@@ -19,20 +19,20 @@ class book{
 	}
     public void checkGroup(){
 		
-		if(Category=='B'){
+		if(Category=='T'){//H.M.M.K Disanayaka ITT/16/17/020
+			System.out .println("Technology");	
+		}
+		else if(Category=='B'){
 			System.out .println("Biology");	
 		}
-		else if(Category=='M'){
-			System.out .println("Mathematics");	
+		else if(Category=='A'){
+			System.out .println("Art");
 		}
 		else if(Category=='C'){
 			System.out .println("Commerce");
 		}
-		else if(Category=='A'){
-			System.out .println("Arts");
-		}
 		else{
-			System.out .println("Others");	
+			System.out .println("Others");	//H.M.M.K Disanayaka ITT/16/17/020
 	    }
 			
 		}
