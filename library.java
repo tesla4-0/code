@@ -43,11 +43,11 @@ class book{
 			book book1=new book();//G.W.B.D.D.WEERASEKARA  ITT/16/17/087
 			book book2=new book();//G.W.B.D.D.WEERASEKARA  ITT/16/17/087
 			
-			book1.assignData("T12534","Ict application","D.R Sanjay",2000,550,'T');//I.W.N.P Jayawardana
+			book1.assignData("M12534","The Principals of Mathematics","Bertand Russel",2500,576,'M');
 			book1.display();
 			book1.checkGroup();
 			
-			book2.assignData("O8934","Many Gina","Mansions Cerminana",2000,304,'O');
+			book2.assignData("C1205","The complete E=Commerce book","Janice Reynolds",1800,290,'C');// P.D. Weerasuriya  ITT/16/17/088
 			book2.display();
 			book2.checkGroup();
 		}
