@@ -43,7 +43,7 @@ class book{
 			book book1=new book();//G.W.B.D.D.WEERASEKARA  ITT/16/17/087
 			book book2=new book();//G.W.B.D.D.WEERASEKARA  ITT/16/17/087
 			
-			book1.assignData("T12345","Ict Application","D.R sanjay",2000,580,'T');//I.W.N.P Jayawardana
+			book1.assignData("T12345","Ict Application","D.R sanjay",2000,580,'T');//I.W.N.P Jayawardana ITT/16/17038
 			book1.display();
 			book1.checkGroup();
 			
