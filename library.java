@@ -43,7 +43,7 @@ class book{
 			book book1=new book();//G.W.B.D.D.WEERASEKARA  ITT/16/17/087
 			book book2=new book();//G.W.B.D.D.WEERASEKARA  ITT/16/17/087
 			
-			book1.assignData("M12534","The Principals of Mathematics","Bertand Russel",2500,576,'M');
+			book1.assignData("T12345","Ict Application","D.R sanjay",2000,580,'T');//I.W.N.P Jayawardana
 			book1.display();
 			book1.checkGroup();
 			
