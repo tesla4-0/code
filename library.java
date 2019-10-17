@@ -15,7 +15,8 @@ class book{
 		 
 	 }
     public void display(){
-		System.out.println("book id :"+BId+"\nbook name :"+Bname+"\nbook autor"+Author+"\nbook price"+price+"\n book pages"+No_of_pages+Category);
+		System.out.println("Book id :"+BId+"\nBook name :"+Bname+"\nBook Author"+Author+"\nBook Price"+price+"\nBook Pages"+No_of_pages+Category);
+	    //P.A.L Chanaka ITT/16/17/008
 	}
     public void checkGroup(){
 		
