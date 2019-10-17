@@ -40,8 +40,8 @@ class book{
 }class Library{
 	public static void main(String args[]){
 			
-			Library book1=new Library();
-			Library book2=new Library();
+			book book1=new book();
+			book book2=new book();
 			
 			book1.assignData("M12534","The Principals of Mathematics","Bertand Russel",2500,576,'M');
 			book1.display();
